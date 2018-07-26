@@ -1,6 +1,6 @@
 {
   "name": "console-pretty-group",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "console.group prettier",
   "main": "lib/index.js",
   "scripts": {
